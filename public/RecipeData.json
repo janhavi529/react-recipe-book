@@ -1,0 +1,60 @@
+{
+    "recipes": [
+        {
+            "title": "Vegetable Biryani",
+            "cuisine": "Indian",
+            "image": "vegetable_biryani.jpg",
+            "ingredients": ["Basmati Rice", "Mixed vegetables", "Paneer", "Ginger Chilli Paste", "Masalas"],
+            "link": "https://www.tarladalal.com/Vegetable-Biryani-(--Desi-Khana)-1551r"
+        },
+        {
+            "title": "Chicken 65",
+            "cuisine": "Indian",
+            "image": "chicken_65.jpg",
+            "ingredients": ["Chicken", "Masalas", "Rice flour", "Corn flour", "Curd"],
+            "link": "https://www.tarladalal.com/Chiken-65-12981r"
+        },
+        {
+            "title": "Chicken Chow Mein",
+            "cuisine": "Chinese",
+            "image": "chicken_chow_mein.jpg",
+            "ingredients": ["Boneless chicken", "Ginger", "Garlic", "Soy sauce", "Corn starch", "Sesame oil", "Chow mein noodles", "Mixed vegetables"],
+            "link": "https://cafedelites.com/chicken-chow-mein/"
+        },
+        {
+            "title": "Dumplings",
+            "cuisine": "Chinese",
+            "image": "dumplings.jpg",
+            "ingredients": ["Flour", "Cabbage", "Garlic", "Ginger", "Soy sauce", "Sesame oil"],
+            "link": "https://tasty.co/recipe/homemade-dumplings"
+        },
+        {
+            "title": "White Sauce Pasta",
+            "cuisine": "Italian",
+            "image": "white_sauce_pasta.jpg",
+            "ingredients": ["Pasta", "Mixed veggies", "White flour", "Milk", "Oregano", "Chilli flakes"],
+            "link": "http://foodviva.com/snacks-recipes/white-sauce-pasta/"
+        },
+        {
+            "title": "Veg Tacos",
+            "cuisine": "Mexican",
+            "image": "veggie_tacos.jpg",
+            "ingredients": ["Corn tortillas", "Black beans", "Red peppers", "Salsa", "Cheddar cheese"],
+            "link": "https://www.tasteofhome.com/recipes/veggie-tacos/"
+        },
+        {
+            "title": "Cold Coffee",
+            "cuisine": "Beverages",
+            "image": "cold_coffee.jpg",
+            "ingredients": ["Milk", "Coffee", "Fresh cream", "Vanilla Ice Cream", "Chocolate Syrup"],
+            "link": "https://recipes.timesofindia.com/beverage/non-alcoholic/cold-coffee/rs53842591.cms"
+        },
+        {
+            "title": "Red Velvet Cake",
+            "cuisine": "Desserts",
+            "image": "red_velvet_cake.jpg",
+            "ingredients": ["Cake flour", "Sugar", "Baking Soda", "Eggs", "Vanilla Extract", "Red food coloring"],
+            "link": "https://www.modernhoney.com/red-velvet-cake/"
+        }
+    ]
+}

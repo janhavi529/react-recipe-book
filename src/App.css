@@ -1,0 +1,12 @@
+/*You can use media queries in CSS as you have configured CSS modules in your component.*/
+ /* @media screen and (min-width:320) and (max-width:768) {
+  .recipeApp {
+    background-color: rgb(188, 255, 249);
+  }
+}  */
+
+/* .recipeApp a:hover, 
+.recipeApp a:active,
+.recipeApp a.my-active {
+  color: #228b22 !important;
+} */

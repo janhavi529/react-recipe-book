@@ -1,0 +1,11 @@
+.recipe img.prep:hover {
+    border: 2px outset lightgrey;
+    border-radius: 10px;
+}
+
+@media screen and (min-width:768px) {
+    img.recipeImg {
+        width: 400px;
+        height: auto;
+    }
+  } 
